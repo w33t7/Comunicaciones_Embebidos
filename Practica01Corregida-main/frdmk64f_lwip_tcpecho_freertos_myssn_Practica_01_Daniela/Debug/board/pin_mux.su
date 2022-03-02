@@ -1,0 +1,4 @@
+C:\Workspace\Especialidad\Sistemas de Comunicaciones\Practica1\Practica01Corregida-main\frdmk64f_lwip_tcpecho_freertos_myssn_Practica_01_Corregida\drivers/fsl_clock.h:668:20:CLOCK_EnableClock	24	static
+C:\Workspace\Especialidad\Sistemas de Comunicaciones\Practica1\Practica01Corregida-main\frdmk64f_lwip_tcpecho_freertos_myssn_Practica_01_Corregida\drivers/fsl_port.h:243:20:PORT_SetPinConfig	32	static
+C:\Workspace\Especialidad\Sistemas de Comunicaciones\Practica1\Practica01Corregida-main\frdmk64f_lwip_tcpecho_freertos_myssn_Practica_01_Corregida\drivers/fsl_port.h:346:20:PORT_SetPinMux	24	static
+../board/pin_mux.c:75:6:BOARD_InitPins	24	static

@@ -1,0 +1,15 @@
+C:\Workspace\Especialidad\Sistemas de Comunicaciones\Practica1\Practica01Corregida-main\frdmk64f_lwip_tcpecho_freertos_myssn_Practica_01_Corregida\drivers/fsl_gpio.h:175:20:GPIO_PortSet	16	static
+C:\Workspace\Especialidad\Sistemas de Comunicaciones\Practica1\Practica01Corregida-main\frdmk64f_lwip_tcpecho_freertos_myssn_Practica_01_Corregida\drivers/fsl_gpio.h:186:20:GPIO_PortClear	16	static
+../source/Encryption_and_Integrity_Layer.c:13:6:Init_EncryptionAndIntegrity	56	static
+../source/Encryption_and_Integrity_Layer.c:74:15:encrypt_msg	744	static
+../source/Encryption_and_Integrity_Layer.c:117:13:decrypt_msg	752	static
+../source/Encryption_and_Integrity_Layer.c:158:5:server_create	16	static
+../source/Encryption_and_Integrity_Layer.c:179:7:server_accept	16	static
+../source/Encryption_and_Integrity_Layer.c:186:6:close	8	static
+../source/Encryption_and_Integrity_Layer.c:191:6:Echo_TCP	40	static
+../source/Encryption_and_Integrity_Layer.c:232:6:messageBody	24	static
+../source/Encryption_and_Integrity_Layer.c:239:14:get_CRC	32	static
+../source/Encryption_and_Integrity_Layer.c:250:13:substr	32	static
+../source/Encryption_and_Integrity_Layer.c:259:17:calculate_CRC	24	static
+../source/Encryption_and_Integrity_Layer.c:275:13:InitCrc32	32	static
+../source/Encryption_and_Integrity_Layer.c:289:13:concatenate_strToSend_CRC	32	static

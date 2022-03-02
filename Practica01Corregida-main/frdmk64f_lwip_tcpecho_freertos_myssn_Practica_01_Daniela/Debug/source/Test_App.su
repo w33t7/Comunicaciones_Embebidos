@@ -1,0 +1,4 @@
+C:\Workspace\Especialidad\Sistemas de Comunicaciones\Practica1\Practica01Corregida-main\frdmk64f_lwip_tcpecho_freertos_myssn_Practica_01_Corregida\drivers/fsl_gpio.h:175:20:GPIO_PortSet	16	static
+C:\Workspace\Especialidad\Sistemas de Comunicaciones\Practica1\Practica01Corregida-main\frdmk64f_lwip_tcpecho_freertos_myssn_Practica_01_Corregida\drivers/fsl_gpio.h:186:20:GPIO_PortClear	16	static
+../source/Test_App.c:11:6:Test_App	16	static
+../source/Test_App.c:42:6:Echo	8	static
